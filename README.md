@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @sam2smart
 - 👀 I’m interested in ... Advance Tech
-- 🌱 I’m currently learning ... C#
-- 💞️ I’m looking to collaborate on ... Developers
+- 🌱 I’m Php Backend Developer
+- 🌱 I’m FullStack Developer
+- 🌱 I’m C# Developer
+- 💞️ I’m looking to collaborate or take on any project ... Developers
 - 📫 How to reach me ... 08168329362 or on ajayisamuel46@gmail.com
 
 <!---
